@@ -9,7 +9,9 @@
     
    
 	"cheerio":"*",
-	"wget":"*"
+	"wget":"*",
+	"request":"*",
+	"wget":"*",
 	
   }
 }
