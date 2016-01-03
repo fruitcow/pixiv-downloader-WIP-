@@ -12,8 +12,8 @@
         console.log(err);
     }
 });
-var id = 'erty88860';
-var password = 'asdf777';
+var id = '';
+var password = '';
 var options = {
   url : 'https://touch.secure.pixiv.net/login.php',
   form: {
